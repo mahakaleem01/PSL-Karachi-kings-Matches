@@ -1,4 +1,4 @@
-Opponent,Date,Toss win,Batting First,Bowling First,Weather,Pitch,Score,WON=1/LOST=0
+Opponent team,Date,Toss win,Batting First,Bowling First,Weather,Pitch,Score,WON=1/LOST=0
 Lahore Qalandars,05/02/2016,WIN,NO,YES,Sunny,NORMAL,131,1
 Quetta Gladiators,06/02/2016,LOSS,YES,NO,Sunny,NORMAL,147,0
 Islamabad United,07/02/2016,WIN,NO,YES,Clear,DUSTY,130,0
